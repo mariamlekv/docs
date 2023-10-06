@@ -1,5 +1,6 @@
 # Mintlify Starter Kit
 
+npx @mintlify/scraping@latest openapi-file <https://petstore.swagger.io/v2/swagger.json> 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
 - Guide pages
